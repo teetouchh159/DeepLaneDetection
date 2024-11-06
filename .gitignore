@@ -1,0 +1,12 @@
+CLRerNet/.idea
+CLRerNet/checkpoints
+CLRerNet/weights
+CLRerNet/work_dirs
+CLRerNet/*.csv
+CLRerNet/*.zip
+CLRerNet/*.pyc
+CLRerNet/.DS_Store
+CLRerNet/dataset
+CLRerNet/demo_test
+CLRerNet/*.pth
+CLRerNet/Video/
